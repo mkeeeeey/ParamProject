@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/icons/icon_close.png</file>
+    <file>images/icons/cil-arrow-bottom.png</file>
+    <file>images/icons/icon_maximize.png</file>
+    <file>images/icons/icon_minimize.png</file>
+    <file>images/icons/icon_restore.png</file>
+  </qresource>
+  <qresource prefix="model">
+    <file>images/model/nex1000.png</file>
+    <file>images/model/nex1100.png</file>
+    <file>images/model/nex1200.png</file>
+    <file>images/model/nex1300.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/image001.png</file>
+    <file>images/icons8-csv-80.png</file>
+    <file>images/icons8-download-48.png</file>
+    <file>images/icons8-file-32.png</file>
+    <file>images/icons8-help-80.png</file>
+    <file>images/icons8-opened-folder-48.png</file>
+    <file>images/icons8-print-80.png</file>
+    <file>images/icons8-save-48.png</file>
+    <file>images/icons8-search-80.png</file>
+    <file>images/icons8-upload-48.png</file>
+    <file>images/image001.png</file>
+    <file>images/south-korea.png</file>
+    <file>images/united-kingdom (1).png</file>
+  </qresource>
+</RCC>
